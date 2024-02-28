@@ -8,6 +8,7 @@ import Container from "./components/layout/Container";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 import Projects from "./components/pages/Project";
+import ProjectSing from "./components/pages/ProjectSing";
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path="/newproject">
             <NewProject />
+          </Route>
+          <Route path="/project/:id">
+            <ProjectSing />
           </Route>
         </Container>
       </Switch>

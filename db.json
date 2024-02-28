@@ -1,45 +1,12 @@
 {
   "projects": [
     {
-      "id": "f0c5",
-      "name": "asa",
-      "budget": "300",
+      "id": "20d0",
+      "name": "projeto atualizado",
+      "budget": "10000",
       "category": {
         "id": "3",
         "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "4304",
-      "name": "asd",
-      "budget": "23",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "7036",
-      "name": "asd",
-      "budget": "23",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "8df1",
-      "name": "projeto",
-      "budget": "9000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
